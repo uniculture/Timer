@@ -1,0 +1,7 @@
+﻿  SunSunSun.cpp
+c:\users\jang\desktop\sunsunsun-master\sunsunsun-master\sunsunsun\sunsunsun.cpp(15): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+  c:\users\jang\desktop\sunsunsun-master\sunsunsun-master\sunsunsun\sunsunsun.cpp(15): note: 명령줄 인수: '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+c:\users\jang\desktop\sunsunsun-master\sunsunsun-master\sunsunsun\sunsunsun.cpp(253): warning C4273: 'ExitProcess': dll 링크가 일치하지 않습니다.
+  c:\program files (x86)\windows kits\8.1\include\um\processthreadsapi.h(169): note: 'ExitProcess'의 이전 정의를 참조하십시오.
+  SunSunSun.vcxproj -> C:\Users\jang\Desktop\SunSunSun-master\SunSunSun-master\Debug\SunSunSun.exe
+  SunSunSun.vcxproj -> C:\Users\jang\Desktop\SunSunSun-master\SunSunSun-master\Debug\SunSunSun.pdb (Full PDB)
